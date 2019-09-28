@@ -1,0 +1,8 @@
+2
+A1#
+F1#
+
+
+BEMOLES
+Salida esperada
+F1
