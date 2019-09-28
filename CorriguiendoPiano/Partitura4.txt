@@ -1,0 +1,6 @@
+1
+F5
+
+Ingreso una sola tecla
+Salida esperada:
+F5
