@@ -1,0 +1,9 @@
+2
+C4
+G4#
+
+
+No llego a tocar G4#
+Salida esperada
+C4
+G4
