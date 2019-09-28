@@ -1,0 +1,10 @@
+3
+C2
+C7
+B6
+
+
+Letras Separadas
+Salida ESPERADA
+C2
+B6
