@@ -1,0 +1,10 @@
+5
+A1
+G1
+F1#
+E1
+D1
+
+
+Salida esperada
+D1
