@@ -1,0 +1,6 @@
+0
+
+
+No ingresan teclas
+Salida esperada
+Archivo vacio
