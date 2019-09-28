@@ -1,0 +1,15 @@
+5
+B2
+A3#
+C7
+G6#
+A1#
+
+
+
+Cuando la Salida son todas las teclas
+Salida esperada
+B2
+A3
+G6
+A1
